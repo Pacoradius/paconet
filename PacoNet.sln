@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacoNet.Domain", "src\PacoNet.Domain\PacoNet.Domain.csproj", "{EFBDB8DB-1D67-4630-BE58-74B7091F8B5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacoNet.Application", "PacoNet.Application\PacoNet.Application.csproj", "{665F5ECA-FB03-40E0-B447-B802BC7F495A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacoNet.Application", "src\PacoNet.Application\PacoNet.Application.csproj", "{724B7398-37E5-4973-8CAC-5CF2AF27C821}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +15,9 @@ Global
 		{EFBDB8DB-1D67-4630-BE58-74B7091F8B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFBDB8DB-1D67-4630-BE58-74B7091F8B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFBDB8DB-1D67-4630-BE58-74B7091F8B5E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{665F5ECA-FB03-40E0-B447-B802BC7F495A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{665F5ECA-FB03-40E0-B447-B802BC7F495A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{665F5ECA-FB03-40E0-B447-B802BC7F495A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{665F5ECA-FB03-40E0-B447-B802BC7F495A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724B7398-37E5-4973-8CAC-5CF2AF27C821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724B7398-37E5-4973-8CAC-5CF2AF27C821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724B7398-37E5-4973-8CAC-5CF2AF27C821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724B7398-37E5-4973-8CAC-5CF2AF27C821}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
